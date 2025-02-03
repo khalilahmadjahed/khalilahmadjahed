@@ -1,20 +1,20 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+hamid;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Khalil Ahmad Jahed;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 
-![](https://komarev.com/ghpvc/?username=hamidullah-hamidi&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=khalilahmadjahed&color=brightgreen)
 
 
-- 👋 Hi, I’m hamidullah hamidi from Herat, Afghanistan
-- 👀 I’m interested in Web development 
-- 🌱 I’m currently learning Web development
+- 👋 Hi, I’m Khalil Ahmad Jahed from Herat, Afghanistan
+- 👀 I’m interested in Software development 
+- 🌱 I’m currently learning Software development
 - 💞️ I’m looking to collaborate on with who wants help in thier projects
 
-### Porfolio
-  [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Blue?style=for-the-badge)](https://my-portfolio-pied-nu-74.vercel.app/)
+<!--### Porfolio
+  [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Blue?style=for-the-badge)](https://my-portfolio-pied-nu-74.vercel.app/)-->
 
 ### Connect With Me:
 
