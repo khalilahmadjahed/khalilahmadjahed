@@ -25,9 +25,9 @@
 
 
 ### My Coding Adventures
-<!-- 
-[![Codewars]()]()
--->
+
+![Codewars](https://www.codewars.com/users/khalilahmadjahed/badges/large)
+
 
 
 [![Exercism Badge](https://img.shields.io/badge/Exercism-000000?style=for-the-badge&logo=exercism&logoColor=white)](https://forum.exercism.org/u/khalilahmadjahed)
