@@ -1,7 +1,7 @@
 <h1 align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello+There;   This+is+Khalil+Ahmad+Jahed   ;Nice+to+meet+you&center=true&size=30)
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+KhalilAhmadJahed;Nice+to+meet+you!&center=true&size=30">
+  </a>
 </h1>
 
 
